@@ -1,6 +1,4 @@
 @echo off
-:: Full parameter documentation has been moved to 7zip_compressor_docs.txt
-:: (kept alongside this script) to keep the .bat file itself short and focused.
 setlocal enabledelayedexpansion
 
 cd /d "%~dp0"
