@@ -489,7 +489,7 @@ pause & goto MAIN_MENU
 :INIT
 :: Default settings
 set "METHOD=zstd"
-set "COMPRESSION_LEVEL=19"
+set "COMPRESSION_LEVEL=11"
 set "DICT_SIZE=Auto"
 set "FAST_BYTES=Auto"
 set "SOLID_MODE=ON"
